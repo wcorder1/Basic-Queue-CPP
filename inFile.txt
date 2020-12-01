@@ -1,0 +1,38 @@
+isempty
+length
+dequeue
+peek
+enqueue 10
+enqueue 20
+enqueue 30
+enqueue 40
+enqueue 50
+list
+length
+enqueue 100
+dequeue
+length
+list
+dequeue
+dequeue
+list
+dequeue
+dequeue
+isempty
+list
+enqueue 10
+enqueue 3
+enqueue 130
+enqueue 10
+enqueue 55
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+peek
+list
+clear
+list
+isempty
+quit
